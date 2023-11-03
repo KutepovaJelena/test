@@ -26,8 +26,12 @@
       System.out.println(sum(2, 6));
       System.out.println(sum(1, 6, 8));
       System.out.println(sum(7, 6, 11, 2));
+<<<<<<< HEAD
       System.out.println("chislo iz zadannogo vzyatogo massiva");
 
+=======
+System. out. println("chislo iz zadannogo massiva");
+>>>>>>> 0797bff52694a5ae9aa0116c460cade740c65996
     }
 
   }
